@@ -207,8 +207,12 @@ li {
 }
 /* footer */
 .font4 {
-  font-family: Island Moments;
+  font-family: 'popins', sans-serif;
   font-size: 15px;
+}
+.line {
+  border-radius: 30px;
+  background-color: wheat;
 }
 
 
